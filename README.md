@@ -1,2 +1,2 @@
 # nullOS
-ERROR: Operating system not found.
+A personal project of mine to fulfil my worldbuilding delusions ^_^
