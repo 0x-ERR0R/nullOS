@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import Terminal from '@/components/Terminal.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <Terminal />
   </main>
 </template>

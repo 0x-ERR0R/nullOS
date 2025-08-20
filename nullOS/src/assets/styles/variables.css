@@ -1,0 +1,10 @@
+:root {
+  --terminal-font: 'Consolas';
+  --primary: blue;
+  --black: black;
+  --white: white;
+
+  --pad-m: 16px;
+  --pad-s: 4px;
+  --pad-none: 0px;
+}
